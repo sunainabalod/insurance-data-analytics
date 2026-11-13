@@ -54,9 +54,7 @@ Interactive dashboard with slicers for policy type, gender, marital status and c
 ![Excel Dashboard](excel%20dashboard%20%282%29.png)
 
 ### Power BI Dashboard
-Executive view of KPIs, premiums vs claims by policy category, customer demographics and policy trends over the years.
-
-![Power BI Dashboard](powerbi%20dashboard.png)
+Executive view of KPIs, premiums vs claims by policy category, customer demographics and policy trends over the years. *(Screenshot shown at the top of this page.)*
 
 ### Tableau Dashboard
 Interactive visuals to explore gender, age group, policy type and yearly policy trends.
