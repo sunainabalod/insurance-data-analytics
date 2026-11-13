@@ -108,7 +108,19 @@ I wrote **21 SQL queries** to answer business questions and calculate KPIs. All 
 - `NULLIF` and `ROUND` for safe ratio calculation
 - Date functions such as `YEAR()`
 - Data cleaning with `ALTER TABLE ... RENAME COLUMN`
+- 
+### Sample Query Outputs
 
+**Top 3 Age Groups by Policy Count**
+
+Query:
+![Age Group Query](Screenshot%202026-11-14%20010803.png)
+
+Result:
+![Age Group Result](Screenshot%202026-11-14%20010912.png)
+
+**Active Policy Percentage**
+![Active Policy Percentage](Screenshot%202026-11-14%20010927.png)
 ---
 
 ## Repository Files
