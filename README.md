@@ -111,7 +111,7 @@ I wrote **21 SQL queries** to answer business questions and calculate KPIs. All 
 - 
 ### Sample Query Outputs
 
-**Top 3 Age Groups by Policy Count**
+**Active Policy Percentage**
 
 Query:
 ![Age Group Query](Screenshot%202026-11-14%20010803.png)
@@ -119,7 +119,8 @@ Query:
 Result:
 ![Age Group Result](Screenshot%202026-11-14%20010912.png)
 
-**Active Policy Percentage**
+**Top 3 Age Groups by Policy Count**
+
 ![Active Policy Percentage](Screenshot%202026-11-14%20010927.png)
 ---
 
